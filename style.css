@@ -1,0 +1,15 @@
+* {
+  text-decoration: none;
+  margin: 0;
+}
+header {
+  padding: 8px;
+}
+nav a,
+ul li a {
+  color: white;
+  transition: 0.2s;
+}
+a:hover {
+  color: rgb(172, 172, 172);
+}
